@@ -45,4 +45,7 @@ footer {
     width: 100%;
     animation: rotateColor 5s linear infinite;
   }
-  
+  nav li a {
+    text-decoration: none;
+    color:black;
+  }
